@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# Generated lab outputs
+*.html
+*.pdf
+
+# External or local datasets
+microdados_enem_2019_sp.csv
+treineiros_enem_2019_sp.csv
+enem_2019_tratados.csv
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
